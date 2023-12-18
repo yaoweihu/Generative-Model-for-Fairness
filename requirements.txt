@@ -1,0 +1,7 @@
+geomloss==0.2.4
+matplotlib==3.5.1
+numpy==1.21.2
+pandas==1.4.1
+scikit_learn==1.1.2
+seaborn==0.11.2
+torch==1.11.0
